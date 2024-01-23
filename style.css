@@ -193,11 +193,15 @@ h2 {
   color: hsla(192, 100%, 9%, 0.5);
 }
 
+.curve-top {
+  max-width: 100%;
+}
 /* second section*/
 
 .img-groups {
   max-width: 270px;
-  margin: 0 0 3rem 2.5rem;
+  margin-inline: auto;
+  margin-bottom: 2.5rem;
 }
 
 h3 {
